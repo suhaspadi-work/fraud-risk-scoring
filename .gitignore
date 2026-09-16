@@ -1,0 +1,5 @@
+venv/
+.ipynb_checkpoints/
+.DS_Store
+data/
+fraud_risk_project_outline.html
